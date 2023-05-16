@@ -1,0 +1,35 @@
+input {
+  width: 20%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  display: block;
+}
+
+button {
+  background: #1e7792;
+  color: white;
+  width: 20%;
+  text-decoration: none;
+  padding: 15px 15px;
+  display: inline-block;
+  border-radius: 8px;
+  border: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.5s;
+}
+
+.form {
+  margin-top: 5%;
+  display: grid;
+  place-items: center;
+}
+
+.tittle:hover {
+  color: rgba(19, 16, 16, 0.719);
+  transform: scale(1.05);
+}
