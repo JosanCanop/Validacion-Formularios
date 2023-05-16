@@ -1,4 +1,4 @@
-# Validacion-Formularios
+# Validación-Formularios
 Pequeña practica donde validamos los inputs de un form (Nombre+Apellido/Email/Contraseña)
 
 Practica donde con JavaScript podemos validar los inputs de nuestro formulario, por ejemplo, que el nombre no contenga numeros, que el email tenga la forma correcta y sea valido y que la contraseña tenga un minimo de
