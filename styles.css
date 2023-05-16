@@ -1,3 +1,8 @@
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(54, 9, 121, 1) 54%, rgba(0, 212, 255, 1) 100%);
+}
+
 input {
   width: 20%;
   padding: 12px;
@@ -29,7 +34,11 @@ button {
   place-items: center;
 }
 
+.tittle {
+  color: aliceblue;
+}
+
 .tittle:hover {
-  color: rgba(19, 16, 16, 0.719);
+  color: rgba(209, 194, 194, 0.719);
   transform: scale(1.05);
 }
